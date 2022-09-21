@@ -108,7 +108,7 @@ http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_M
-http://127.0.0.1:6878/ace/getstream?id=cd4965e740f8e01f47cef1b9dc0517b806cd38b5
+http://127.0.0.1:6878/ace/getstream?id=4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
@@ -143,6 +143,12 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,BarçaTv
+http://127.0.0.1:6878/ace/getstream?id=e401beff79c70a54542c38728e20141122e6c5c8
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Esport 3 cat  
+http://127.0.0.1:6878/ace/getstream?id=4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,REAL MADRID TV
+http://127.0.0.1:6878/ace/getstream?id=15d01e482f108a8e61db4612b8b222bf72843b2d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TeleCirco 1080
 http://127.0.0.1:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
