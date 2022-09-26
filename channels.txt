@@ -51,6 +51,8 @@ http://127.0.0.1:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
 http://127.0.0.1:6878/ace/getstream?id=d8512e64f34a117afb656f5c66cf8d88023c9570
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK
 http://127.0.0.1:6878/ace/getstream?id=3b50977af3acb17ecd8e463a94888dfbaea028d2
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK_HD_M
+http://127.0.0.1:6878/ace/getstream?id=4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,smartbank 2 1080 
@@ -107,10 +109,6 @@ http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_
-http://127.0.0.1:6878/ace/getstream?id=137ccef306febbd4509b5a374f08df1151bf388c
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_M
-http://127.0.0.1:6878/ace/getstream?id=4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
 http://127.0.0.1:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 720
@@ -149,6 +147,8 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FC CARTAGENA - ALAVES_
+http://127.0.0.1:6878/ace/getstream?id=137ccef306febbd4509b5a374f08df1151bf388c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TeleCirco 1080
 http://127.0.0.1:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
