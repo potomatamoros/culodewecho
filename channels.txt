@@ -23,10 +23,6 @@ http://127.0.0.1:6878/ace/getstream?id=e3f3ffd375d2d22c09731a0a8f400581cced1401
 http://127.0.0.1:6878/ace/getstream?id=ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN2
 http://127.0.0.1:6878/ace/getstream?id=3e0b292ab03f258f993ba6833b254cca33a79d74
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN1 HD_M
-http://127.0.0.1:6878/ace/getstream?id=6f29350d83ab43eccebaecb6cf2daa887aec9cf6
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN1 HD_M
-http://127.0.0.1:6878/ace/getstream?id=b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 http://127.0.0.1:6878/ace/getstream?id=d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
@@ -149,6 +145,10 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Oviedo VS Cartagena HD_M
+http://127.0.0.1:6878/ace/getstream?id=6f29350d83ab43eccebaecb6cf2daa887aec9cf6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,OvOviedo VS Cartagena_HD_M
+http://127.0.0.1:6878/ace/getstream?id=b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TeleCirco 1080
 http://127.0.0.1:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
