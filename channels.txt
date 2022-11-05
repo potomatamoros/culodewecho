@@ -41,6 +41,8 @@ http://127.0.0.1:6878/ace/getstream?id=a0465ef421f30d0c68ff706654147762ec7b6c03
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.LIGA M_HD
+http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
@@ -113,8 +115,6 @@ http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M.DEPORTES M_HD
-http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
@@ -153,6 +153,10 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MOTOS 
+http://127.0.0.1:6878/ace/getstream?id=597e723782fad1d0268ff30284f8db649bd0ce02
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MOTOS HD
+http://127.0.0.1:6878/ace/getstream?id=cd2592d8ab8bc0608e9c69e1b864132ffbd0bb73
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
 http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
