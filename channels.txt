@@ -155,10 +155,6 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MALLORCA VS AT. MADRID 1080
-http://127.0.0.1:6878/ace/getstream?id=280eed864fa98d941bd5b94940e600a986df6211
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ESPANYOL VS VILLAREAL 1080
-http://127.0.0.1:6878/ace/getstream?id=64f97f1b9b6bb63285cf55ad611ef09383680ab6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
 http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
