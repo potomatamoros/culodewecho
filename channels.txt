@@ -117,7 +117,7 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,#VAMOD _M_HD
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MUNDIAL _M_HD
 http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
 http://127.0.0.1:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
